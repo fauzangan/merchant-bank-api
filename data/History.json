@@ -1,0 +1,15 @@
+[
+  {
+    "id": "txn-20240101010101",
+    "customer_id": "1",
+    "action": "login",
+    "timestamp": "2024-01-01T01:01:01Z"
+  },
+  {
+    "id": "txn-20240101010201",
+    "customer_id": "1",
+    "action": "payment",
+    "amount": 1000,
+    "timestamp": "2024-01-01T01:02:01Z"
+  }
+]
